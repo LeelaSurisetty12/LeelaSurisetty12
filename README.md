@@ -114,7 +114,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeelaSurisetty12&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leelaSurisetty12&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
